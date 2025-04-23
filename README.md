@@ -12,7 +12,7 @@ DURATION: 12 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-#DESCRIPTION OF THE TASK
+# DESCRIPTION OF THE TASK
 
 The File Integrity Checker is a Python-based tool created to monitor changes in files by computing and comparing their hash values. It ensures the integrity of files by identifying unauthorized alterations.
 
@@ -78,4 +78,5 @@ File Operations: I needed to understand how to read and write files in Python, d
 
 Error Handling: I implemented robust error handling to address issues like file not being found or invalid hash values.
 
-#OUTPUT
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/64744504-d0c4-48b1-8daf-6881a51df9f8)
